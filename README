@@ -1,0 +1,7 @@
+TDS Report:
+
+Estimating the effect of the external exposome on leukocyte telomere length (LTL) in the UK biobank cohort
+
+src folder : Main statistical analyses (Variable selection analysis; Expotype network analysis)
+             Sensitivity and secondary analyses (Variable Group LASSO; Exclusive LASSO and attenuation analysis; Random forest; Sex stratification)
+results folder : all created plots.
